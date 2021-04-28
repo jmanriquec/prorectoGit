@@ -14,3 +14,10 @@ p{
     font-family:'Courier New', Courier, monospace;
     font-weight: bold;
 }
+.container{
+    width: 78%;
+    height: 200px;
+    margin: auto;
+    padding: 2%;
+    background-color: #333;
+}
